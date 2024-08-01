@@ -20,3 +20,9 @@
 | :-----: | :-----: |
 | <img src="https://avatars.githubusercontent.com/u/76685700?v=4" width=90px alt="김대현"/>  | <img src="https://avatars.githubusercontent.com/u/174393982?v=4" width=90px alt="소준호"/>  |
 | [@Daehyun-Bigbread](https://github.com/Daehyun-Bigbread) | [@hpsmart2017](https://github.com/hpsmart2017)  |
+
+### ⚙️ 개발 환경
+**언어**: Java(JDK17)
+**서버**: Tomcat
+**프레임워크**: Spring Boot 3.3.2
+**Dependencies**: lombok, JPA, OAuth2 Client 
