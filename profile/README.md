@@ -22,7 +22,7 @@
 | [@Daehyun-Bigbread](https://github.com/Daehyun-Bigbread) | [@hpsmart2017](https://github.com/hpsmart2017)  |
 
 ### ⚙️ 개발 환경
-**언어**: Java(JDK17)
-**서버**: Tomcat
-**프레임워크**: Spring Boot 3.3.2
-**Dependencies**: lombok, JPA, OAuth2 Client 
+- **언어**: Java(JDK17)
+- **서버**: Tomcat
+- **프레임워크**: Spring Boot 3.3.2
+- **Dependencies**: lombok, JPA, OAuth2 Client 
