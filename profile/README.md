@@ -66,24 +66,20 @@ Golla Golla는 **개인화된 쇼핑 경험**의 중요성에 기반하여 개�
 
 ![KakaoTalk_Photo_2024-09-11-10-26-52](https://github.com/user-attachments/assets/e139c466-7693-42f1-ab2b-ec0381cc4df3)
 
-
 ---
 
 ## **Cloud Architecture**
 
 <img width="1342" alt="KakaoTalk_Photo_2024-09-11-10-20-18" src="https://github.com/user-attachments/assets/51ac64d1-dd86-4c6f-8f6c-98c0b0486823">
 
-
 ---
 
 ## **기술 스택**
 
-- **프론트엔드**: React.js, Next.js
-- **백엔드**: Java Spring Boot, MySQL
-    - [BE API 명세서](http://example.com/api#/products)
-- **AI 통합**: Python, Scikit-learn, TensorFlow
-    - [AI API 명세서](http://example.com/ai/docs)
-- **클라우드 인프라**: AWS (EC2, S3, RDS), Docker, Jenkins (CI/CD)
+- **FE(프론트엔드)**: React.js, Redux, Atomy, Styled Component
+- **BE(백엔드)**: Java Spring Boot, MySQL, OAuth2, JWT, JPA
+- **AI & Search Engine**: Python, Scikit-learn, Pandas, Numpy, Whoosh
+- **Cloud**: AWS (EC2, S3, RDS), Nginx, Linux, Docker, Jenkins (CI/CD)
 
 | **구분**      | **기술**        |
 | ------------- | --------------- |
