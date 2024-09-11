@@ -1,12 +1,4 @@
-# 카카오테크 부트캠프 18조 
-
-> 네이놈 ! 카카오테크 부트캠프 18조 Organization입니다.
-
-
-
----
-
-![Start image](https://example.com/image.png)
+![Golla Golla](https://github.com/user-attachments/assets/99136f2e-f17e-435c-ae1f-96d15b46937e)
 
 # Golla Golla
 
@@ -51,31 +43,36 @@ Golla Golla는 **개인화된 쇼핑 경험**의 중요성에 기반하여 개�
 
 ---
 
-## **유저 플로우**
+## **Information Architecture**
 
-1. 사용자가 로그인하면 AI가 구매 이력과 관심사 데이터를 분석하여 맞춤형 상품을 추천합니다.
-2. 사용자는 추천된 상품을 장바구니에 추가하고, 결제를 진행합니다.
-3. 구매 후에는 상품에 대한 리뷰를 작성하고, 다른 사용자들과 경험을 공유할 수 있습니다.
+![imformation_Architecture](https://github.com/user-attachments/assets/33a82096-075e-4bb2-8ab0-1a0342b5048c)
 
-![User Flow](https://example.com/userflow.png)
+- **Information Architecture (IA)** 는 크게 6가지 Feature로 구성했습니다.
+  1. **홈화면 & 상품추천(ML)**
+  2. **삼품 관리 페이지**(판매자 전용)
+  3. **장바구니**
+  4. **주문 관리**
+  5. **마이페이지**
+  6. **리뷰 작성**
 
 ---
 
-## **Sequence Diagram**
-
-![Sequence Diagram*](https://example.com/sequence-diagram.png)
+## **FE Usecase**
+<img width="782" alt="image" src="https://github.com/user-attachments/assets/c672d2d7-ac68-4263-adb2-caf152bf5718">
 
 ---
 
 ## **ERD**
 
-<img src="https://example.com/erd.png" alt="ERD Diagram">
+![KakaoTalk_Photo_2024-09-11-10-26-52](https://github.com/user-attachments/assets/e139c466-7693-42f1-ab2b-ec0381cc4df3)
+
 
 ---
 
 ## **Cloud Architecture**
 
-![Cloud Architecture](https://example.com/cloud-architecture.png)
+<img width="1342" alt="KakaoTalk_Photo_2024-09-11-10-20-18" src="https://github.com/user-attachments/assets/51ac64d1-dd86-4c6f-8f6c-98c0b0486823">
+
 
 ---
 
