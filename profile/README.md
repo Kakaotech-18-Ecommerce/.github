@@ -124,6 +124,12 @@ AI 추천 시스템의 유효성: AI 기반 개인화 추천 시스템은 전자
 
 ---
 
+- **Service PR PPT**
+
+[18조-골라골라.pdf](https://github.com/user-attachments/files/16956775/18.-.pdf)
+
+---
+
 ## 👥 Team Members
 
 ## ☁️ Cloud
