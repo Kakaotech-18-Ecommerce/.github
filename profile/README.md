@@ -21,7 +21,8 @@
 구매 만족(Fall in love): 고객이 자신과 잘 맞는 상품과 브랜드를 발견하고, 이를 통해 특별한 구매 경험을 느끼며 만족감을 얻을 수 있도록 지원합니다.
 
 ---
-## **주제 선정 배경**
+## **주제 선정 배경 & 목표**
+![iScreen Shoter - Google Chrome - 240911215157](https://github.com/user-attachments/assets/57f79337-42fd-4c53-89f8-1a80967a3c7e)
 
 Golla Golla는 개인화된 쇼핑 경험의 중요성을 바탕으로 개발되었습니다.
 
