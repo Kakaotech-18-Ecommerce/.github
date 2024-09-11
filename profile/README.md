@@ -42,7 +42,7 @@ AI 추천 시스템의 유효성: AI 기반 개인화 추천 시스템은 전자
 ---
 
 
-## **Information Architecture**
+## **Information Architecture(IA)**
 
 ![imformation_Architecture](https://github.com/user-attachments/assets/33a82096-075e-4bb2-8ab0-1a0342b5048c)
 
