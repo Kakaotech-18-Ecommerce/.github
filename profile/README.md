@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://img.shields.io/badge/kakao tech bootcamp-FFCD00?style=flat&logo=kakao&logoColor=black" alt="kakao" height="23">
+</div>
+
 ![Golla Golla](https://github.com/user-attachments/assets/99136f2e-f17e-435c-ae1f-96d15b46937e)
 
 # Golla Golla
